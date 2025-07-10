@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Brand Identity System",
+    "category": "Branding",
+    "description": "Complete brand identity system for a tech startup, including logo design, color palette, and brand guidelines.",
+    "image": "https://images.unsplash.com/photo-1533777857889-50040cfb9529?w=400&h=300&fit=crop",
+    "details": "This comprehensive branding project involved creating a cohesive visual identity that reflects the company's innovative approach to technology. The design process included extensive research, mood boards, and iterative refinement to achieve the perfect balance of professionalism and creativity.",
+    "technologies": ["Adobe Illustrator", "Adobe InDesign", "Figma"],
+    "link": "https://example.com/brand-identity"
+  },
+  {
+    "id": 2,
+    "title": "E-commerce Platform",
+    "category": "Web Development",
+    "description": "Modern e-commerce platform with responsive design and seamless user experience.",
+    "image": "https://images.unsplash.com/photo-1556742049-4cfb229d2d3f?w=400&h=300&fit=crop",
+    "details": "Built with React and Node.js, this e-commerce platform features real-time inventory management, secure payment processing, and an intuitive admin dashboard. The design prioritizes user experience with smooth animations and responsive layouts.",
+    "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+    "link": "https://example.com/ecommerce"
+  },
+  {
+    "id": 3,
+    "title": "Mobile App UI/UX",
+    "category": "Mobile Design",
+    "description": "User-friendly mobile app interface design with intuitive navigation and modern aesthetics.",
+    "image": "https://images.unsplash.com/photo-1512941404542-2cbfb254b95f?w=400&h=300&fit=crop",
+    "details": "This mobile app design focuses on usability and accessibility, featuring a clean interface with intuitive navigation patterns. The project included user research, wireframing, prototyping, and usability testing to ensure optimal user experience.",
+    "technologies": ["Figma", "Adobe XD", "Principle", "Sketch"],
+    "link": "https://example.com/mobile-app"
+  },
+  {
+    "id": 4,
+    "title": "Corporate Website",
+    "category": "Web Design",
+    "description": "Professional corporate website with modern design and optimal performance.",
+    "image": "https://images.unsplash.com/photo-1467171228234-8267528c5bbc?w=400&h=300&fit=crop",
+    "details": "A sophisticated corporate website designed to establish credibility and showcase services. The site features smooth animations, optimized performance, and a content management system for easy updates.",
+    "technologies": ["HTML5", "CSS3", "JavaScript", "WordPress"],
+    "link": "https://example.com/corporate-site"
+  },
+  {
+    "id": 5,
+    "title": "Social Media Campaign",
+    "category": "Marketing",
+    "description": "Creative social media campaign with engaging visuals and strategic messaging.",
+    "image": "https://images.unsplash.com/photo-1611926322148-8970a7e6c6c8?w=400&h=300&fit=crop",
+    "details": "A comprehensive social media campaign that increased brand awareness by 300% over 6 months. The project included content strategy, visual design, copywriting, and performance analysis.",
+    "technologies": ["Canva", "Adobe Creative Suite", "Hootsuite", "Analytics"],
+    "link": "https://example.com/social-campaign"
+  },
+  {
+    "id": 6,
+    "title": "Video Production",
+    "category": "Video",
+    "description": "Professional video production with cinematic quality and compelling storytelling.",
+    "image": "https://images.unsplash.com/photo-1502920824882-4ac8f0afc50e?w=400&h=300&fit=crop",
+    "details": "A cinematic brand video that tells the company's story through compelling visuals and narration. The project included scripting, filming, editing, and post-production with motion graphics and sound design.",
+    "technologies": [
+      "Adobe Premiere Pro",
+      "After Effects",
+      "Cinema 4D",
+      "Pro Tools"
+    ],
+    "link": "https://example.com/video-production"
+  }
+]
